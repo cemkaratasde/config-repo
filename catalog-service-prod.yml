@@ -1,3 +1,2 @@
 polar:
-  greeting: "Welcome to the catalog production catalog service from config server"
-
+  greeting: "Welcome to the catalog service from refresh actuator"
